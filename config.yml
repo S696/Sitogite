@@ -1,5 +1,5 @@
-baseURL: ""
-title: Gite e pensionateggiate 
+baseURL: "https://www.gitemilano.com/post/gitacmb/"
+title: GiteMilano 
 paginate: 5
 theme: PaperMod
 
@@ -15,9 +15,9 @@ minify:
     minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Gite e pensionateggiate
-    description: "ExampleSite description"
+    env: hiking # to enable google analytics, opengraph, twitter-cards and schema.
+    title: GiteMilano
+    description: "blog di hking"
     keywords: [Blog, Portfolio, PaperMod]
     author: Me
     # author: ["Me", "You"] # multiple authors
