@@ -35,7 +35,7 @@ editPost:
 
 
 
-#### Ammireremo i prati del Möscl’abitato di Valzurio (non sono nomi inventati) #tutto[Serio](https://www.valseriana.eu)
+#### Ammireremo i prati del Möscl e l'abitato di Valzurio (non sono nomi inventati) #tutto[Serio](https://www.valseriana.eu)
 
 <!--more--> 
 
