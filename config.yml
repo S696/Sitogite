@@ -1,4 +1,4 @@
-baseURL: "https://www.gitemilano.com/post/gitacmb/"
+baseURL: "https://www.gitemilano.com"
 title: GiteMilano 
 paginate: 5
 theme: PaperMod
