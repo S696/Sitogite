@@ -87,7 +87,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "gite, montegna, Milano"
+            SiteVerificationTag: "XYZabc"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
