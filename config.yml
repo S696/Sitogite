@@ -56,7 +56,7 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
+        title: GiteMilano
         subtitle: "This is subtitle"
         imageUrl: "<img location>"
         imageWidth: 120
@@ -87,7 +87,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: "gite, montegna, Milano"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
