@@ -45,7 +45,7 @@ editPost:
 
 ---
 
-- Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/CvDCN5P7Lvrkc2YA7), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto al parcheggio del centro sportivo di Rorvetta dal lato opposto della strada
+- Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/CvDCN5P7Lvrkc2YA7), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto al parcheggio del centro sportivo di Rovetta dal lato opposto della strada
 
 - Dettagli impegno fisico:
     - ⏱️ Durata 2h30'
