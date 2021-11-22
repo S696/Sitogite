@@ -36,16 +36,18 @@ editPost:
 
 
 
-#### Siccome a Natale dobbiamo essere più buoni, questa gita è stata pensata per far sentire tutti accolti 
+#### Siccome a Natale dobbiamo essere più buoni, questa gita è stata pensata per far sentire tutti accolti o almeno provarci
 
 <!--more--> 
 
+Per fare in modo che ciascuno possa sostenere l'impegno fisico che gli è più gradito, la meta di arrivo sarà la medesima, ma la si potrà raggiungere con livelli di comodità differenti  
+
+La meta sarà il rifugio Nicola 
 ---
 
-{{< figure src="/monteblum.jpg#centered" width=600 height=400 >}}
+{{< figure src="/rifugionicola.jpg#centered" width=600 height=400 >}}
 
 ---
-Questa gita è pensata per fare in modo che ciacuno possa sostendere l'impegno fisico che gli è più gradito, a tal fine la meta di arrivo sarà la medesima per tutti, ma la si potrà raggiungere con livelli di comodità differenti  
 
 
 
