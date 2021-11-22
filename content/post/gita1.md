@@ -36,7 +36,7 @@ editPost:
 
 
 
-#### Ammireremo i prati del Möschel e l'abitato di Valzurio (non sono nomi inventati) #tutto[Serio](https://www.valseriana.eu)
+#### Siccome a Natale dobbiamo essere più buoni, questa gita è stata pensata per far sentire tutti accolti 
 
 <!--more--> 
 
@@ -45,6 +45,9 @@ editPost:
 {{< figure src="/monteblum.jpg#centered" width=600 height=400 >}}
 
 ---
+Questa gita è pensata per fare in modo che ciacuno possa sostendere l'impegno fisico che gli è più gradito, a tal fine la meta di arrivo sarà la medesima per tutti, ma la si potrà raggiungere con livelli di comodità differenti  
+
+
 
 - Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/CvDCN5P7Lvrkc2YA7), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto al parcheggio del centro sportivo di Rovetta dal lato opposto della strada
 
