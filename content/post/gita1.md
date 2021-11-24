@@ -40,27 +40,48 @@ editPost:
 
 <!--more--> 
 
-Per fare in modo che ciascuno possa sostenere l'impegno fisico che gli è più gradito, la meta di arrivo sarà la medesima, ma la si potrà raggiungere con livelli di comodità differenti  
+Per fare in modo che ciascuno possa sostenere l'impegno fisico che gli è più gradito, si potrà decidere di raggiungere il [Rifugio Nicola](https://www.rifugi.lombardia.it/lecco/barzio/rifugio-nicola.html) o godersi i piani [Piani di artavaggio](https://www.pianidibobbio.com/artavaggio) *senza camminare*
 
-La meta sarà il rifugio Nicola 
----
-
-{{< figure src="/rifugionicola.jpg#centered" width=600 height=400 >}}
 
 ---
 
+{{< figure src="/rifugionicola.jpg#centered" width=600 height=300 title="Rifugio Nicola" >}}
+
+---
 
 
-- Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/CvDCN5P7Lvrkc2YA7), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto al parcheggio del centro sportivo di Rovetta dal lato opposto della strada
+{{< figure src="/pianidiartavaggio.jpg#centered" width=600 height=300 title="Piani di Artavaggio" >}}
 
-- Dettagli impegno fisico:
-    - ⏱️ Durata 2h30'
-    - ⬆️ Dislivello 560m
+---
 
-- Requisiti necessari: 
-    - pranzo al sacco
-    - scarpe adeguate ad una gita in montagna 🥾
-    - giacca a vento
-    - felpa
- 
-- La gita non presenta alcuna difficoltà risulta quidi percorribile da chiunque non abbia **gravi problemi** di salute 🙈🙉🙊
+Ritrovo alle 9.30 presso questo [parcheggio](https://g.page/Artavaggio?share), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto nelle vie adiacenti al parcheggio della funivia
+
+--- 
+#### Ciascuno potrà personalizzare il proprio percorso in abse a queste tre modalità:
+
+*Gold* --> (avrai la mia stima) da Moggio fino al rifugio Nicola a piedi 
+   
+    - impegno fisico:
+        - ⏱️ Durata 2h30'
+        - ⬆️ Dislivello 1000m
+
+*Silver* --> da Moggio ai piani di artavaggio in [funivia](https://www.pianidibobbio.com/prezzi-orari/artavaggio),  (cliccando su funivia si aprirà il sito con i relativi costi), successivamente dai piani di artavaggio al rifugio Nicola a piedi
+
+    - impegno fisico:
+        - ⏱️ Durata 40 min
+        - ⬆️ Dislivello 200m
+
+*Bronze* --> da Moggio ai piani di Artavaggio in funivia, successivamente da lì al rifugio [Sassi castelli]([funivia](https://www.pianidibobbio.com/prezzi-orari/artavaggio)) a piedi
+
+        - impegno fisico:
+        - zero 🙈🙉🙊
+
+
+---
+#### Requisiti necessari:  
+- pranzo al sacco o eventualmente pranzo al rifugio Nicola o Sassi Castelli (consiglio di prenotare )
+- scarpe adeguate ad una gita in montagna 🥾 
+- ciaspole, non è detto che siano necessarie, ma meglio averle. Qualora non le possediate potrete noleggiarle nei pressi della funivia 
+- giacca a vento
+- felpa
+- ricambio se si vuole partecipare ad una *violenta* e *spietata* guerra a palle di neve ❄️
