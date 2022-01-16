@@ -42,7 +42,7 @@ editPost:
 
 Il Monte Barro offrirà una spettacolare vista sui laghi Briantei e il lago di Como e ci sorprenderà con la sua ricchezza naturalistica, storica e culturale. 
 
-Questa montagna si affaccia sulla città di Lecco ed è quella con la maggiore biodiversità tra tutte le montagna che circondano il lago di Como. Dalla sua cima di potranno ammirare: i laghi Britanei, il ramo orientale del lago di Como, il Resegone, le Grigne e il fiume Adda che attraversa la Brianza per giungere in pianura padana  
+Questa montagna si affaccia sulla città di Lecco ed è quella con la maggiore biodiversità tra tutte le montagne che circondano il lago di Como. Dalla sua cima si potranno ammirare: i laghi Britanei, il ramo orientale del lago di Como, il Resegone, le Grigne e il fiume Adda che attraversa la Brianza per giungere in pianura padana  
 
 ---
 
