@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Gita facile o difficile"
+description: "Gita facile"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
