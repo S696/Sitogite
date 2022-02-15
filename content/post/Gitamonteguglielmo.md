@@ -52,6 +52,7 @@ Raggiunta la vetta si potrà godere di una visuale a 360° sulla pianura padana 
 
 ---
 {{< youtube id="VSIHUwJF6yE&t=15s&ab_channel=Outdooractive–3DFlüge" title="Monte Guglielmo" >}}
+
 ---
 
 Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agbu8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
