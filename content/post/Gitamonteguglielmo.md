@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Gita Monte Guglielmo | 29/01/2022"
+title: "Gita Monte Guglielmo | 26/02/2022"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Gita facile"
+description: "Gita media"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,28 +36,29 @@ editPost:
 
 
 
-#### Anno nuovo gita nuova
+#### Dominiamo il lago d'Iseo
 
 <!--more--> 
 
-Il Monte Barro offrirà una spettacolare vista sui laghi Briantei e il lago di Como e ci sorprenderà con la sua ricchezza naturalistica, storica e culturale. 
+Conosciuto dialettalmente come Gölem, il Monte Guglielmo sorge a cavallo della dorsale che divide il solco della Val Trompia dal bacino del lago d’Iseo.
+Questa montagna, alta 1949 metri è meta di numerose escursioni e passeggiate, inoltre è facilmente riconoscibile per la sua mole imponente, per la sua forma tozza e per il suo cucuzzolo innevato per la maggior parte dell’anno.
 
-Questa montagna si affaccia sulla città di Lecco ed è quella con la maggiore biodiversità tra tutte le montagne che circondano il lago di Como. Dalla sua cima si potranno ammirare: i laghi Britanei, il ramo orientale del lago di Como, il Resegone, le Grigne e il fiume Adda che attraversa la Brianza per giungere in pianura padana  
-
----
-
-{{< figure src="/montebarro.jpg#centered" width=600 height=300 title="Monte Barro" >}}
+Raggiunta la vetta si potrà godere di una visuale a 360° sulla pianura padana e sulle Alpi, inoltre volgendo lo sguardo alle sue pendici sarà ben visibile il lago d’Iseo con Montisola ovvero l'isoletta che sorge al crentro del lago (meta di prossime gite). Grazie alla sua collocazione il Monte Guglielmo risulta essere un vero e proprio palco affacciato sul Sebino.
 
 ---
 
-Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/axV8iUCMZPKGZ8hV9), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto al parcheggggio precedente sulla stessa via sempre in via pian di Sciresa
+{{< figure src="/monteguglielmo.jpg#centered" width=600 height=300 title="Monte Guglielmo" >}}
+
+---
+
+Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agbu8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
 
 --- 
 #### Impegno fisico
    
     
-        - ⏱️ Durata 2h
-        - ⬆️ Dislivello 600m
+        - ⏱️ Durata 2.30h
+        - ⬆️ Dislivello 750m
 
 
 ---
@@ -68,3 +69,6 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/axV8iUCMZPKGZ8h
 - giacca a vento
 - felpa
 - ricambio (calze, maglia interna)
+- acqua – lungo il percorso (da Croce di Marone) c’è solamente un punto da cui sgorga acqua fresca
+- k-way: in vetta il tempo è facilmente mutabile
+- macchina fotografica, per immortalare gli scenari mozzafiato che si apriranno man mano sotto i vostri occhi
