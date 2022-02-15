@@ -41,6 +41,7 @@ editPost:
 <!--more--> 
 
 Conosciuto dialettalmente come Gölem, il Monte Guglielmo sorge a cavallo della dorsale che divide il solco della Val Trompia dal bacino del lago d’Iseo.
+
 Questa montagna, alta 1949 metri è meta di numerose escursioni e passeggiate, inoltre è facilmente riconoscibile per la sua mole imponente, per la sua forma tozza e per il suo cucuzzolo innevato per la maggior parte dell’anno.
 
 Raggiunta la vetta si potrà godere di una visuale a 360° sulla pianura padana e sulle Alpi, inoltre volgendo lo sguardo alle sue pendici sarà ben visibile il lago d’Iseo con Montisola ovvero l'isoletta che sorge al crentro del lago (meta di prossime gite). Grazie alla sua collocazione il Monte Guglielmo risulta essere un vero e proprio palco affacciato sul Sebino.
