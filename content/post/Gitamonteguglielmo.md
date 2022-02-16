@@ -62,6 +62,13 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agb
 
 
 ---
+## YouTube Privacy Enhanced Shortcode
+
+{{< youtube ZJthWmvUzzc >}}
+
+<br>
+
+---
 #### Requisiti necessari:  
 - pranzo al sacco 
 - scarpe adeguate ad una gita in montagna 🥾 
