@@ -56,19 +56,10 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agb
 
 --- 
 #### Impegno fisico
-   
-    
+
         - ⏱️ Durata 2.30h
         - ⬆️ Dislivello 750m
 
-
----
-
-## Video 3D dell'itinerario 
-
-{{< youtube u5k4c42YrfU&ab_channel=MrRIP >}}
-
-<br>
 
 ---
 #### Requisiti necessari:  
