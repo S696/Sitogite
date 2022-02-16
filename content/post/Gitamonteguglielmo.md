@@ -62,9 +62,9 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agb
 
 
 ---
-## YouTube Privacy Enhanced Shortcode
+## Video in 3D della camminata 
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube VSIHUwJF6yE&t=6s >}}
 
 <br>
 
