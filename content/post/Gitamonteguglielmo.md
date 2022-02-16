@@ -66,7 +66,7 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agb
 
 ## Video 3D dell'itinerario 
 
-{{< youtube VSIHUwJF6yE&t=15s&ab_channel=Outdooractive–3DFlüge >}}
+{{< youtube u5k4c42YrfU&ab_channel=MrRIP >}}
 
 <br>
 
