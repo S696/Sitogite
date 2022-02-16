@@ -64,7 +64,7 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agb
 ---
 ## Video della salita in 3D
 
-{{< youtube VSIHUwJF6yE&t=6s >}}
+{{< youtube VSIHUwJF6yE >}}
 
 <br>
 
