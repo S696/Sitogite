@@ -52,7 +52,7 @@ Raggiunta la vetta si potrà godere di una visuale a 360° sulla pianura padana 
 
 ---
 
-Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agbu8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
+Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agbu8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
 
 --- 
 #### Impegno fisico
