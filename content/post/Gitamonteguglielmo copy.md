@@ -46,6 +46,15 @@ Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita avr
 {{< figure src="/eremosanvalentino.jpg#centered" width=600 height=300 title="Eremo San Valentino" >}}
 
 ---
+Proseguendo la salita saremo accompagnati da splendidi scorci panoramici verso il lago di Garda che farà da cornice alla nostra escursione.
+
+Per quelli che verranno sol oper mettere la foto su instagram segnalo che poco sotto la vetta è posizionato uno splendido terrazzo in legno da cui si potranno scattare ottime foto.
+
+---
+
+{{< figure src="/terrazzainstagram.jpg#centered" width=600 height=300 title="Terrazza Instagram" >}}
+
+---
 
 La montagna, a dispetto della modesta altezza di 1.279, offre un panorama fantastico su gran parte del lago e verso le montagne che lo circondano.
 
