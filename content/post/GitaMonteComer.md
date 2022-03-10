@@ -79,9 +79,9 @@ Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/75B5nvt6XCZco2
 
 
 ---
-### Video della salita in 3D
+### Video della salita 
 
-{{< youtube >}}
+{{< youtube LlV7IQw4uWc&ab_channel=LeMontagne-GuideperilTrekking >}}
 
 <br>
 
@@ -94,6 +94,6 @@ Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/75B5nvt6XCZco2
 - giacca a vento
 - felpa
 - ricambio (calze, maglia interna)
-- acqua – lungo il percorso (da Croce di Marone) c’è solamente un punto da cui sgorga acqua fresca
+- acqua 
 - k-way: in vetta il tempo è facilmente mutabile
-- macchina fotografica, per immortalare gli scenari mozzafiato che si apriranno man mano sotto i vostri occhi
+- macchina fotografica
