@@ -40,7 +40,7 @@ editPost:
 
 <!--more--> 
 
-Cima Cmer sorge sulla sponda bresciana del Lago di Garda, durante la salita avremo l'occasione di visitare l’Eremo di San Valentino (m 772) che fu costruito dagli abitanti di Gargnano per sfuggire alla peste del 1630. La chiesetta è un tutt’uno con la parete di roccia cui è addossata e da questo punto si gode uno splendido panorama. (Chi volesse può fermarsi quì a chiedere miracoli sentimentali, per chi non lo avesse capito tale deviazione comporta il nome "gita sentimentale")
+Cima  sorge sulla sponda bresciana del Lago di Garda, durante la salita avremo l'occasione di visitare l’Eremo di San Valentino (m 772) che fu costruito dagli abitanti di Gargnano per sfuggire alla peste del 1630. La chiesetta è un tutt’uno con la parete di roccia cui è addossata e da questo punto si gode uno splendido panorama. (Chi volesse può fermarsi quì a chiedere miracoli sentimentali, per chi non lo avesse capito tale deviazione comporta il nome "gita sentimentale")
 
 ---
 
