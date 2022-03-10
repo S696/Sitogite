@@ -39,7 +39,7 @@ editPost:
 #### Dominiamo il lago di Garda
 
 <!--more--> 
-Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita avremo la possibilità di visitare l’Eremo di San Valentino costruito tra le rocce in una posizione incantevole. La chiesetta ad una quota di 770 metri è incastrata nella roccia e fu costruita nel 1630 come voto da parte dei superstiti che erano riusciti a sfuggire alla peste rifugiandosi su questi monti.(Chi vuole potrà fermarsi quì per chiedere miracoli a livello sentimentale)
+Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita avremo la possibilità di visitare l’Eremo di San Valentino costruito tra le rocce in una posizione incantevole. La chiesetta ad una quota di 770 metri è incastrata nella roccia e fu costruita nel 1630 come voto da parte dei superstiti che erano riusciti a sfuggire alla peste rifugiandosi su questi monti.   (Chi vuole potrà fermarsi quì per chiedere miracoli a livello sentimentale)
 
 ---
 
@@ -48,7 +48,7 @@ Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita avr
 ---
 Proseguendo la salita saremo accompagnati da splendidi scorci panoramici verso il lago di Garda che farà da cornice alla nostra escursione.
 
-Per quelli che verranno sol oper mettere la foto su instagram segnalo che poco sotto la vetta è posizionato uno splendido terrazzo in legno da cui si potranno scattare ottime foto.
+Per quelli che verranno solo per mettere la foto su instagram segnalo che poco sotto la vetta è posizionato uno splendido terrazzo in legno da cui si potranno scattare ottime foto.
 
 ---
 
@@ -56,15 +56,26 @@ Per quelli che verranno sol oper mettere la foto su instagram segnalo che poco s
 
 ---
 
-La montagna, a dispetto della modesta altezza di 1.279, offre un panorama fantastico su gran parte del lago e verso le montagne che lo circondano.
+Sulla cima, a dispetto della modesta altezza di 1.279, potremo godere di un punto panoramico privilegiato che ci consentirà di ammirare l’incredibile estensione del lago di Garda oltre alla vista verso il Monte Baldo e il Monte Pizzocolo.
 
-Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/c8A4FcfzrHx2agbu8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
+
+---
+
+{{< figure src="/montecomer.jpg#centered" width=600 height=300 title="Cima Comer" >}}
+
+---
+
+Il sentiero è in ottime condizioni, non sono presenti però punti di ristoro lungo il percorso per cui occorre partire ben approvvigionati.
+
+---
+
+Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/75B5nvt6XCZco21X9), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
 
 --- 
 #### Impegno fisico
 
-        - ⏱️ Durata 2.30h
-        - ⬆️ Dislivello 750m
+        - ⏱️ Durata 4h
+        - ⬆️ Dislivello 800m
 
 
 ---
