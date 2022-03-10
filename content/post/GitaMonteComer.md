@@ -58,13 +58,6 @@ Per quelli che verranno solo per mettere la foto su instagram segnalo che poco s
 
 Sulla cima, a dispetto della modesta altezza di 1.279, potremo godere di un punto panoramico privilegiato che ci consentirà di ammirare l’incredibile estensione del lago di Garda oltre alla vista verso il Monte Baldo e il Monte Pizzocolo.
 
----
-
-{{< figure src="/CimaComer.jpg#centered" width=600 height=300 title="Cima Monte Comer" >}}
-
----
-
-
 Il sentiero è in ottime condizioni, non sono presenti però punti di ristoro lungo il percorso per cui occorre partire ben approvvigionati.
 
 ---
@@ -74,7 +67,7 @@ Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/75B5nvt6XCZco2
 --- 
 #### Impegno fisico
 
-        - ⏱️ Durata 4h
+        - ⏱️ 4h di cammino totale
         - ⬆️ Dislivello 800m
 
 
