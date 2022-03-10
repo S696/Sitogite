@@ -78,14 +78,7 @@ Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/75B5nvt6XCZco2
         - ⬆️ Dislivello 800m
 
 
----
-### Video della salita 
 
-{{< youtube LlV7IQw4uWc&ab_channel=LeMontagne-GuideperilTrekking >}}
-
-<br>
-
----
 
 #### Requisiti necessari:  
 - pranzo al sacco 
