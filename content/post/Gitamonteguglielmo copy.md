@@ -39,7 +39,7 @@ editPost:
 #### Dominiamo il lago di Garda
 
 <!--more--> 
-Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita potremo visitare anche l’Eremo di San Valentino costruito tra le rocce in una posizione incantevole. La chiesetta ad una quota di 770 metri è incastrata nella roccia e fu costruita nel 1630 come voto da parte dei superstiti che erano riusciti a sfuggire alla peste rifugiandosi su questi monti.
+Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita avremo la possibilità di visitare l’Eremo di San Valentino costruito tra le rocce in una posizione incantevole. La chiesetta ad una quota di 770 metri è incastrata nella roccia e fu costruita nel 1630 come voto da parte dei superstiti che erano riusciti a sfuggire alla peste rifugiandosi su questi monti.(Chi vuole potrà fermarsi quì per chiedere miracoli a livello sentimentale)
 
 ---
 
