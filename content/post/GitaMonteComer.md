@@ -60,7 +60,7 @@ Sulla cima, a dispetto della modesta altezza di 1.279, potremo godere di un punt
 
 ---
 
-{{< figure src="/montec.jpg#centered" width=600 height=300 title="Cima Monte Comer" >}}
+{{< figure src="/CimaComer.jpg#centered" width=600 height=300 title="Cima Monte Comer" >}}
 
 ---
 
