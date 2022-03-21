@@ -68,7 +68,7 @@ Il sentiero è in ottime condizioni, non sono presenti però punti di ristoro lu
 
 ---
 
-Ritrovo alle 10.00 presso questo [parcheggio](https://goo.gl/maps/UnSa7rbpaifb4J3KA), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
+Ritrovo alle 10.00 località Sasso frazione di Gargnano [parcheggio](https://goo.gl/maps/UnSa7rbpaifb4J3KA), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere) parcheggiate dove trovate nel paese.
 
 --- 
 #### Impegno fisico
