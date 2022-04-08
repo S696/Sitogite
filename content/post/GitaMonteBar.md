@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Gita Cima Comer | 27/03/2022"
+title: "Gita Monte Bar | 25/04/2022"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -36,10 +36,12 @@ editPost:
 
 
 
-#### Dominiamo il lago di Garda
+#### Gita per ricchi
 
 <!--more--> 
-Cima Comer sorge sulla sponda bresciana del Lago di Garda, durante la salita avremo la possibilità di visitare l’Eremo di San Valentino costruito tra le rocce in una posizione incantevole. La chiesetta ad una quota di 770 metri è incastrata nella roccia e fu costruita nel 1630 come voto da parte dei superstiti che erano riusciti a sfuggire alla peste rifugiandosi su questi monti.   (Chi vuole potrà fermarsi quì per chiedere miracoli a livello sentimentale)
+Dal Monte Bar si può ammirare uno dei panorami più spettacolari sul lago di Lugano. Dalla cima la vista spazia dal golfo lacustre al verde retroterra della Val Colla e in lontananza si può vedere anche Milano. Si possono inoltre scorgere le Alpi retiche, vallesane e bernesi oltre al massiccio del Monte Rosa e agli Appennini. Ai piedi della cima si trova una comoda capanna alpina, dove (i più ricchi🤑) potranno gustare varie specialità ticinesi.
+
+
 
 ---
 
@@ -64,17 +66,13 @@ Sulla cima, a dispetto della modesta altezza di 1.279, potremo godere di un punt
 
 ---
 
-Il sentiero è in ottime condizioni, non sono presenti però punti di ristoro lungo il percorso per cui occorre partire ben approvvigionati.
-
----
-
 Ritrovo alle 10.00 presso località Sasso frazione di Gargnano(BS) [parcheggio](https://goo.gl/maps/UnSa7rbpaifb4J3KA), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere) parcheggiate dove trovate nel paese.
 
 --- 
 #### Impegno fisico
 
         - ⏱️ 4h di cammino totale
-        - ⬆️ Dislivello 800m
+        - ⬆️ Dislivello 700m
 
 
 
@@ -82,7 +80,6 @@ Ritrovo alle 10.00 presso località Sasso frazione di Gargnano(BS) [parcheggio](
 #### Requisiti necessari:  
 - pranzo al sacco 
 - scarpe adeguate ad una gita in montagna 🥾 
-- Se li avete dei ramponcini 
 - giacca a vento
 - felpa
 - ricambio (calze, maglia interna)
