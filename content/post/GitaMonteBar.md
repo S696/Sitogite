@@ -44,28 +44,25 @@ Dal Monte Bar si può ammirare uno dei panorami più spettacolari sul lago di Lu
 
 ---
 
-{{< figure src="/eremosanvalentino.jpg#centered" width=600 height=300 title="Eremo San Valentino" >}}
+{{< figure src="/montebar.jpg#centered" width=600 height=300 title="Monte Bar" >}}
 
 ---
-Proseguendo la salita saremo accompagnati da splendidi scorci panoramici verso il lago di Garda che farà da cornice alla nostra escursione.
-
-Per quelli che verranno solo per mettere la foto su instagram segnalo che poco sotto la vetta è posizionato uno splendido terrazzo in legno da cui si potranno scattare ottime foto.
+Durante la salita i più fortunati avranno anche la possibilità di ammirare le meravigliose vacche svizzere 
 
 ---
 
-{{< figure src="/terrazzainstagram.jpg#centered" width=600 height=300 title="Terrazza Instagram" >}}
+{{< figure src="/mucca.jpg#centered" width=600 height=300 title="Vacca Svizzera" >}}
 
 ---
 
-Sulla cima, a dispetto della modesta altezza di 1.279, potremo godere di un punto panoramico privilegiato che ci consentirà di ammirare l’incredibile estensione del lago di Garda oltre alla vista verso il Monte Baldo e il Monte Pizzocolo.
+Durante il percorso potremo sostare alla capanna Monte Bar, di proprietà della sezione CAS Ticino,costruita nel 2016, esattamente 80 anni dopo la costruzione del primo rifugio. Volendo i più 💰 potranno anche fermarsi quì per pranzo o per assaggiare podotti ticinesi 
+---
+
+{{< figure src="/capannamontebar.jpg#centered" width=600 height=300 title="Capanna Monte Bar" >}}
 
 ---
 
-{{< figure src="/CimaComer.jpg#centered" width=600 height=300 title="Cima Comer" >}}
-
----
-
-Ritrovo alle 10.00 presso località Sasso frazione di Gargnano(BS) [parcheggio](https://goo.gl/maps/UnSa7rbpaifb4J3KA), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere) parcheggiate dove trovate nel paese.
+Ritrovo alle 10.00 presso Capriasca (Lugano) [parcheggio](https://goo.gl/maps/2cxmzefRY3ddPifN8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere).
 
 --- 
 #### Impegno fisico
