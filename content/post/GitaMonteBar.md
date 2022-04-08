@@ -44,18 +44,18 @@ Dal Monte Bar si può ammirare uno dei panorami più spettacolari sul lago di Lu
 
 ---
 
-{{< figure src="/montebar.jpg#centered" width=600 height=300 title="Monte Bar" >}}
+{{< figure src="/montebar.jpg#centered" width=400 height=300 title="Monte Bar" >}}
 
 ---
 Durante la salita i più fortunati avranno anche la possibilità di ammirare le meravigliose vacche svizzere 
 
 ---
 
-{{< figure src="/mucca.jpg#centered" width=600 height=300 title="Vacca Svizzera" >}}
+{{< figure src="/mucca.jpg#centered" width=400 height=300 title="Vacca Svizzera" >}}
 
 ---
-
 Durante il percorso potremo sostare alla capanna Monte Bar, di proprietà della sezione CAS Ticino,costruita nel 2016, esattamente 80 anni dopo la costruzione del primo rifugio. Volendo i più 💰 potranno anche fermarsi quì per pranzo o per assaggiare podotti ticinesi 
+
 ---
 
 {{< figure src="/capannamontebar.jpg#centered" width=600 height=300 title="Capanna Monte Bar" >}}
