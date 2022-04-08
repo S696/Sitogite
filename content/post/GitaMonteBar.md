@@ -51,10 +51,10 @@ Durante la salita i più fortunati avranno anche la possibilità di ammirare le 
 
 ---
 
-{{< figure src="/mucca.jpg#centered" width=500 height=300 title="Vacca Svizzera" >}}
+{{< figure src="/mucca.jpg#centered" width=500 height=300 title="🇨🇭 🐮" >}}
 
 ---
-Durante il percorso potremo sostare alla capanna Monte Bar, di proprietà della sezione CAS Ticino,costruita nel 2016, esattamente 80 anni dopo la costruzione del primo rifugio. Volendo i più 💰 potranno anche fermarsi quì per pranzo o per assaggiare podotti ticinesi 
+Durante il percorso potremo sostare alla capanna Monte Bar, di proprietà della sezione CAS Ticino, costruita nel 2016, esattamente 80 anni dopo la costruzione del primo rifugio. Volendo i più 💰 potranno anche fermarsi quì per pranzo o per assaggiare podotti ticinesi 
 
 ---
 
