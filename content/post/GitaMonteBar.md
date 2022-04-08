@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Gita sentimentale"
+description: "Gita per ricchi"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,11 +36,10 @@ editPost:
 
 
 
-#### Gita per ricchi
+#### Dominiamo il lago di Lugano
 
 <!--more--> 
 Dal Monte Bar si può ammirare uno dei panorami più spettacolari sul lago di Lugano. Dalla cima la vista spazia dal golfo lacustre al verde retroterra della Val Colla e in lontananza si può vedere anche Milano. Si possono inoltre scorgere le Alpi retiche, vallesane e bernesi oltre al massiccio del Monte Rosa e agli Appennini. Ai piedi della cima si trova una comoda capanna alpina, dove (i più ricchi🤑) potranno gustare varie specialità ticinesi.
-
 
 
 ---
