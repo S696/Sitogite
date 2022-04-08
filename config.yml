@@ -78,12 +78,12 @@ params:
 
             - Di seguito puoi trovare le gite che **abbiamo fatto** e quelle in **programma**
 
-            - Se vuoi unirti a noi scrivimi su **instagram** tramite l'icona  quì sotto  👇🏽
+            - Se vuoi unirti a noi scrivici su **instagram** tramite l'icona  quì sotto  👇🏽
 
 
     socialIcons:
         - name: Instagram
-          url: "https://www.instagram.com/_simonematteo_/"
+          url: https://www.instagram.com/gitemilano/
 
     analytics:
         google:
