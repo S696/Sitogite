@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Gita per ricchi"
+description: "Ritorno alle origini"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,10 +36,10 @@ editPost:
 
 
 
-#### Dominiamo il lago di Lugano
+#### Panoramica sul lago di Como
 
 <!--more--> 
-Dal Monte Bar si può ammirare uno dei panorami più spettacolari sul lago di Lugano. Dalla cima la vista spazia dal golfo lacustre al verde retroterra della Val Colla e in lontananza si può vedere anche Milano. Si possono inoltre scorgere le Alpi retiche, vallesane e bernesi oltre al massiccio del Monte Rosa e agli Appennini. Ai piedi della cima si trova una comoda capanna alpina, dove (i più ricchi🤑) potranno gustare varie specialità ticinesi.
+Il Rifugio Rosalba si trova a 1.720 metri di altitudine ai piedi della Grignetta, in corrispondenza dell’inizio della Cresta Segantini e davanti allo splendido Torrione Cecilia. Si rivela degna di nota anche la vista verso la Grigna settentrionale e lo Zucco Pertusio con alle spalle il Lago di Como e le montagne che lo circondano.
 
 
 ---
@@ -47,34 +47,24 @@ Dal Monte Bar si può ammirare uno dei panorami più spettacolari sul lago di Lu
 {{< figure src="/montebar.jpg#centered" width=500 height=300 title="Monte Bar" >}}
 
 ---
-Durante la salita i più fortunati avranno anche la possibilità di ammirare le meravigliose vacche svizzere 
+Il sentiero per il rifugio Rosalba inizia con una camminata in un bellissimo bosco di faggi, che percorso d’autunno ci avvolge in un quadro cromatico unico. In questo tratto la passeggiata non è impegnativa: il sentiero è pianeggiante con un leggero saliscendi fino a quando il panorama si apre sulle guglie della Grignetta da quì iniziamo ad assaporare l’assoluta bellezza della regina Grigna. Usciti dal bosco si affronta l’ultima parte del  cammino verso il rifugio Rosalba, tra i pendii erbosi e le guglie della montagna che Leonardo Da Vinci definiva “pelada”. Un pizzico di Dolomiti a Lecco.Raggiunta la vetta ci si può abbandonare alla contemplazione di un panorama stupendo che dal lago di Como spinge il nostro sguardo fino all’orizzonte, quell’orizzonte coronato dalla catena delle Alpi, dove si riesce chiaramente a riconoscere nelle belle giornate il Gran Paradiso, il Monviso e il Monte Rosa.
+Si sotolinea che il Rifugio Rosalba prepara ottimi pranzi 
 
 ---
 
-{{< figure src="/mucca.jpg#centered" width=500 height=300 title="🇨🇭 🐮" >}}
-
----
-Durante il percorso potremo sostare alla capanna Monte Bar, di proprietà della sezione CAS Ticino, costruita nel 2016, esattamente 80 anni dopo la costruzione del primo rifugio. Volendo i più 💰 potranno anche fermarsi quì per pranzo o per assaggiare podotti ticinesi 
-
----
-
-{{< figure src="/capannamontebar.jpg#centered" width=600 height=300 title="Capanna Monte Bar" >}}
-
----
-
-Ritrovo alle 10.00 presso Capriasca (Lugano) [parcheggio](https://goo.gl/maps/2cxmzefRY3ddPifN8), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere).
+Ritrovo alle 09.30 presso piani dei resinelli [parcheggio](https://goo.gl/maps/ggeG1MieYDvQVspHA), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere).
 
 --- 
 #### Impegno fisico
 
         - ⏱️ 4h di cammino totale
-        - ⬆️ Dislivello 700m
+        - ⬆️ Dislivello 600m
 
 
 
 
 #### Requisiti necessari:  
-- pranzo al sacco 
+- pranzo al sacco se non si vuole mangiare al rifugio 
 - scarpe adeguate ad una gita in montagna 🥾 
 - giacca a vento
 - felpa
