@@ -1,6 +1,6 @@
 ---
-weight: 2
-title: "Gita Monte Bar | 25/04/2022"
+weight: 1
+title: "Gita Rifugio Rosalba | 29/05/2022"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
