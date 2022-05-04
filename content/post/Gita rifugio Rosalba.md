@@ -44,7 +44,7 @@ Il Rifugio Rosalba si trova a 1.720 metri di altitudine ai piedi della Grignetta
 
 ---
 
-{{< figure src="/montebar.jpg#centered" width=500 height=300 title="Monte Bar" >}}
+{{< figure src="/rifugiorosalba.jpg#centered" width=500 height=300 title="Monte Bar" >}}
 
 ---
 Il sentiero per il rifugio Rosalba inizia con una camminata in un bellissimo bosco di faggi, che percorso d’autunno ci avvolge in un quadro cromatico unico. In questo tratto la passeggiata non è impegnativa: il sentiero è pianeggiante con un leggero saliscendi fino a quando il panorama si apre sulle guglie della Grignetta da quì iniziamo ad assaporare l’assoluta bellezza della regina Grigna. Usciti dal bosco si affronta l’ultima parte del  cammino verso il rifugio Rosalba, tra i pendii erbosi e le guglie della montagna che Leonardo Da Vinci definiva “pelada”. Un pizzico di Dolomiti a Lecco.Raggiunta la vetta ci si può abbandonare alla contemplazione di un panorama stupendo che dal lago di Como spinge il nostro sguardo fino all’orizzonte, quell’orizzonte coronato dalla catena delle Alpi, dove si riesce chiaramente a riconoscere nelle belle giornate il Gran Paradiso, il Monviso e il Monte Rosa.
