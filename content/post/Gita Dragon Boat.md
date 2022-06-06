@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Ritorno alle origini"
+description: "Naviglio non ti temo"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,10 +36,12 @@ editPost:
 
 
 
-#### Panoramica sul lago di Como
+#### Naviglio non ti temo 
 
 <!--more--> 
-Il Rifugio Rosalba si trova a 1.720 metri di altitudine ai piedi della Grignetta, in corrispondenza dell’inizio della Cresta Segantini e davanti allo splendido Torrione Cecilia. Si rivela degna di nota anche la vista verso la Grigna settentrionale e lo Zucco Pertusio con alle spalle il Lago di Como e le montagne che lo circondano.
+Una gita sull'acqua è una novità assoluta per GiteMilano, i più avvezzi alla montagna potranno storcere il naso, ma il divertimento e la voglia di condividere un bel momento assieme sono assicurati.
+
+
 
 
 ---
