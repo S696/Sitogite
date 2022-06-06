@@ -41,8 +41,9 @@ editPost:
 <!--more--> 
 Una gita sull'acqua è una novità assoluta per GiteMilano, i più avvezzi alla montagna potranno storcere il naso, ma il divertimento e la voglia di condividere un bel momento assieme sono assicurati.
 
+Solcheremo il naviglio partendo da trezzano sul naviglio fino a conquistare la darsena a colpi di pagaia con il privilegio di osservare una delle zone di Milano più scenografiche, e turistiche, in maniera originale e insolita.
 
-
+L'imbarcazione che utilizzeremo sarà un Dragon Boat, che è una grande canoa adatta al trasporto di 20 persone più il timoniere e l’addetto al tamburo.
 
 ---
 
