@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 6
 title: "Gita Monte Barro | 29/01/2022"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
