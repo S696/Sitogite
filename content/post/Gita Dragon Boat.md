@@ -47,31 +47,20 @@ L'imbarcazione che utilizzeremo sarà un Dragon Boat, che è una grande canoa ad
 
 ---
 
-{{< figure src="/rifugiorosalba.jpg #centered" width=500 height=300 title=" Rifugio Rosalba " >}}
+{{< figure src="/dragonboat.jpg #centered" width=500 height=300 title=" Dragon Boat " >}}
 
 ---
-Il sentiero per il rifugio Rosalba inizia con una camminata in un bellissimo bosco di faggi, che percorso d’autunno ci avvolge in un quadro cromatico unico. In questo tratto la passeggiata non è impegnativa: il sentiero è pianeggiante con un leggero saliscendi fino a quando il panorama si apre sulle guglie della Grignetta da quì iniziamo ad assaporare l’assoluta bellezza della regina Grigna. Usciti dal bosco si affronta l’ultima parte del  cammino verso il rifugio Rosalba, tra i pendii erbosi e le guglie della montagna che Leonardo Da Vinci definiva “pelada”. Un pizzico di Dolomiti a Lecco. Raggiunta la vetta ci si può abbandonare alla contemplazione di un panorama stupendo che dal lago di Como spinge il nostro sguardo fino all’orizzonte, quell’orizzonte coronato dalla catena delle Alpi, dove si riesce chiaramente a riconoscere nelle belle giornate il Gran Paradiso, il Monviso e il Monte Rosa.
-Si sotolinea che il Rifugio Rosalba prepara ottimi pranzi 
+La società che ci permetterà di fare questa gita è il https://www.navigliosport.com/www-navigliosport-com che è attiva per tutti gli sport canoistici, a bordo saremo accompagnati da un istruttore certificato dalla Fick che ci assisterà e spiegherà i movimenti base per una gita su questo tipo di imbarcazione.
+
+Non è richiesta alcuna esperienza o particolare atleticità, è un'attività adatta a tutti e fcilmente afforntabile, avremo a disposizione tutti gli aiuti del caso al fine di fare un'esperienza alternativa all'insegna del divertimento.
 
 ---
 
-Ritrovo alle 09.30 presso piani dei resinelli [parcheggio](https://goo.gl/maps/ggeG1MieYDvQVspHA), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere).
+Ritrovo alle 18.30 presso il  [Navigliosport](https://g.page/navigliosport?share), il club sportivo si trova a 500 metri dalla stazione di trezzano sul naviglio, quindi l'ideale è arrivare con i mezzi anche perchè la partenza sarà da trezzano, ma arriveremo alla darsena dove in seguito ad un aperitivo di chiusura (per chi vuole) si potrà prendere la metro o i vari treni disponibili a porta genova. 
 
 --- 
-#### Impegno fisico
-
-        - ⏱️ 4h di cammino totale
-        - ⬆️ Dislivello 600m
-
-
-
 
 #### Requisiti necessari:  
-- pranzo al sacco se non si vuole mangiare al rifugio 
-- scarpe adeguate ad una gita in montagna 🥾 
-- giacca a vento
-- felpa
-- ricambio (calze, maglia interna)
-- acqua 
-- k-way: in vetta il tempo è facilmente mutabile
-- macchina fotografica
+- maglietta e pantaloncini 
+- eventuale cambio 
+voglia di vivere 
