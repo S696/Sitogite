@@ -74,4 +74,4 @@ A seguito della Discesa in gommone si potrà decidere se pranzare con il pranzo 
 - occhiali da sole
 - berretto per il sole e crema solare
 - Asciugamano e ricambio per dopo l’attività, da lasciare in macchina
-voglia di vivere 
+- voglia di vivere 
