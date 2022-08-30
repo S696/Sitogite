@@ -53,11 +53,19 @@ Non è richiesta alcuna esperienza o particolare atleticità, è un'attività ad
 
 ---
 
-Ritrovo alle 09.30 presso il  [Navigliosport](https://g.page/navigliosport?share), il club sportivo si trova a 500 metri dalla stazione di trezzano sul naviglio, quindi l'ideale è arrivare con i mezzi anche perchè la partenza sarà da trezzano, ma arriveremo alla darsena dove in seguito ad un aperitivo di chiusura (per chi vuole) si potrà prendere la metro o i vari treni disponibili a porta genova. 
+Ritrovo alle 09.30 presso il  [Agriturismo La Colombara di Gaium (VR)](https://g.page/la-colombara?share). 
+A seguito della Discesa in gommone si potrà decidere se pranzare con il pranzo al sacco nel prato accanto alla società di rafting oppure presso l'agriturismo. 
 
 --- 
 
 #### Requisiti necessari:  
-- maglietta e pantaloncini 
-- eventuale cambio 
+-scarpe da ginnastica che si bagnano o sandali chiusi
+-costume da bagno
+-pantaloncino corto 
+-maglietta
+-bottiglietta d’acqua
+-una busta stagna porta cellulare 
+-occhiali da sole
+-berretto per il sole e crema solare
+-Asciugamano e ricambio per dopo l’attività, da lasciare in macchina
 voglia di vivere 
