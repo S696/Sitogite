@@ -57,8 +57,13 @@ Ritrovo alle 09.30 presso il  [Agriturismo La Colombara di Gaium (VR)](https://g
 A seguito della Discesa in gommone si potrà decidere se pranzare con il pranzo al sacco nel prato accanto alla società di rafting oppure presso l'agriturismo. 
 
 --- 
+#### Impegno fisico
 
-#### Requisiti necessari:  
+        - ⏱️ 2.30h di discesa
+        - 💸 20€
+
+
+#### Attrezzatura necessaria:  
 -scarpe da ginnastica che si bagnano o sandali chiusi
 -costume da bagno
 -pantaloncino corto 
