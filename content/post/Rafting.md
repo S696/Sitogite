@@ -65,13 +65,13 @@ A seguito della Discesa in gommone si potrà decidere se pranzare con il pranzo 
 
 
 #### Attrezzatura necessaria:  
--scarpe da ginnastica che si bagnano o sandali chiusi
--costume da bagno
--pantaloncino corto 
--maglietta
--bottiglietta d’acqua
--una busta stagna porta cellulare 
--occhiali da sole
--berretto per il sole e crema solare
--Asciugamano e ricambio per dopo l’attività, da lasciare in macchina
+- scarpe da ginnastica che si bagnano o sandali chiusi
+- costume da bagno
+- pantaloncino corto 
+- maglietta
+- bottiglietta d’acqua
+- una busta stagna porta cellulare 
+- occhiali da sole
+- berretto per il sole e crema solare
+- Asciugamano e ricambio per dopo l’attività, da lasciare in macchina
 voglia di vivere 
