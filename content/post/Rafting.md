@@ -39,21 +39,21 @@ editPost:
 #### Adige non ti temo 
 
 <!--more--> 
-Dopo aver solcato il Naviglio grande di Milano, ci aspetta una nuova avventura sull'Adige a bordo di gommoni da rafting, accompagnati da https://xadventure.it 
+Dopo aver solcato il Naviglio grande di Milano, ci aspetta una nuova avventura sull'Adige a bordo di gommoni da rafting! 
 
 Attraverseremo un un tratto del fiume molto piacevole alla scoperta della Terra dei Forti. Alla fine del percorso scopriremo il luogo più bello e selvaggio di tutta la Val d’Adige: La Gola del Ceraino.
 ---
 
-{{< figure src="/rafting.jpg #centered" width=500 height=300 title=" Dragon Boat " >}}
+{{< figure src="/rafting.jpg #centered" width=500 height=300 title=" Rafting Adige " >}}
 
 ---
-La società che ci permetterà di fare questa gita è il https://www.navigliosport.com/www-navigliosport-com che è attiva per tutti gli sport canoistici, a bordo saremo accompagnati da un istruttore certificato dalla Fick che ci assisterà e spiegherà i movimenti base per una gita su questo tipo di imbarcazione.
+La società che ci permetterà di fare questa gita è https://xadventure.it, a bordo del gommone saremo accompagnati da un istruttore certificato che ci supporterà lungo la discesa oltre ad insegnarci i rudimenti di questa disciplina e i movimenti base per viaggiare in sicurezza sul gommone.
 
 Non è richiesta alcuna esperienza o particolare atleticità, è un'attività adatta a tutti e fcilmente afforntabile, avremo a disposizione tutti gli aiuti del caso al fine di fare un'esperienza alternativa all'insegna del divertimento.
 
 ---
 
-Ritrovo alle 18.30 presso il  [Navigliosport](https://g.page/navigliosport?share), il club sportivo si trova a 500 metri dalla stazione di trezzano sul naviglio, quindi l'ideale è arrivare con i mezzi anche perchè la partenza sarà da trezzano, ma arriveremo alla darsena dove in seguito ad un aperitivo di chiusura (per chi vuole) si potrà prendere la metro o i vari treni disponibili a porta genova. 
+Ritrovo alle 09.30 presso il  [Navigliosport](https://g.page/navigliosport?share), il club sportivo si trova a 500 metri dalla stazione di trezzano sul naviglio, quindi l'ideale è arrivare con i mezzi anche perchè la partenza sarà da trezzano, ma arriveremo alla darsena dove in seguito ad un aperitivo di chiusura (per chi vuole) si potrà prendere la metro o i vari treni disponibili a porta genova. 
 
 --- 
 
