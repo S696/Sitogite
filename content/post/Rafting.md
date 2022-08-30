@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Esplorando l'acqua"
+description: "Alla conquista del Veneto"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,18 +36,15 @@ editPost:
 
 
 
-#### Naviglio non ti temo 
+#### Adige non ti temo 
 
 <!--more--> 
-Una gita sull'acqua è una novità assoluta per GiteMilano, i più avvezzi alla montagna potranno storcere il naso, ma il divertimento e la voglia di condividere un bel momento assieme sono assicurati.
+Dopo aver solcato il Naviglio grande di Milano, ci aspetta una nuova avventura sull'Adige a bordo di gommoni da rafting, accompagnati da https://xadventure.it 
 
-Solcheremo il naviglio partendo da trezzano sul naviglio fino a conquistare la darsena a colpi di pagaia con il privilegio di osservare una delle zone di Milano più scenografiche, e turistiche, in maniera originale e insolita.
-
-L'imbarcazione che utilizzeremo sarà un Dragon Boat, che è una grande canoa adatta al trasporto di più di 20 persone più il timoniere e l’addetto al tamburo.
-
+Attraverseremo un un tratto del fiume molto piacevole alla scoperta della Terra dei Forti. Alla fine del percorso scopriremo il luogo più bello e selvaggio di tutta la Val d’Adige: La Gola del Ceraino.
 ---
 
-{{< figure src="/dragonboat.jpg #centered" width=500 height=300 title=" Dragon Boat " >}}
+{{< figure src="/rafting.jpg #centered" width=500 height=300 title=" Dragon Boat " >}}
 
 ---
 La società che ci permetterà di fare questa gita è il https://www.navigliosport.com/www-navigliosport-com che è attiva per tutti gli sport canoistici, a bordo saremo accompagnati da un istruttore certificato dalla Fick che ci assisterà e spiegherà i movimenti base per una gita su questo tipo di imbarcazione.
