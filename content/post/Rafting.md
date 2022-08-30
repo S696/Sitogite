@@ -42,6 +42,7 @@ editPost:
 Dopo aver solcato il Naviglio grande di Milano, ci aspetta una nuova avventura sull'Adige a bordo di gommoni da rafting! 
 
 Attraverseremo un un tratto del fiume molto piacevole alla scoperta della Terra dei Forti. Alla fine del percorso scopriremo il luogo più bello e selvaggio di tutta la Val d’Adige: La Gola del Ceraino.
+
 ---
 
 {{< figure src="/rafting.jpg #centered" width=500 height=300 title=" Rafting Adige " >}}
