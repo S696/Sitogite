@@ -64,7 +64,7 @@ Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 --- 
 #### Impegno fisico
 
-        - ⏱️ 2.30h di discesa
+        - ⏱️ 2.30h di salita
 
 
 #### Attrezzatura necessaria:  
