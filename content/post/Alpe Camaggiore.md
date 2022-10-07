@@ -70,6 +70,7 @@ Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 #### Attrezzatura necessaria:  
 - Scarpe adeguate ad una gita in montagna (i tacchi o le superga non vanno bene)
 - bottiglietta d’acqua 
+- pranzo al sacco 
 - occhiali da sole
 - berretto per il sole e crema solare
 - Felpa 
