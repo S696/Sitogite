@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Alla conquista del Veneto"
+description: "Conquistiamo il lago di Lecco"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
