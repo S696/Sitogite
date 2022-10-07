@@ -39,18 +39,15 @@ editPost:
 #### La perla della Muggiasca 
 
 <!--more--> 
-Dopo aver solcato il Naviglio grande di Milano, ci aspetta una nuova avventura sull'Adige a bordo di gommoni da rafting! 
+Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, nella Valle della Muggiasca, in provincia di Lecco.
 
-Attraverseremo un tratto del fiume molto piacevole alla scoperta della Terra dei Forti. Alla fine del percorso scopriremo il luogo più bello e selvaggio di tutta la Val d’Adige: La Gola del Ceraino.
-
+L’ Alpe Camaggiore è un piccolo alpeggio a picco sul lago, nel territorio di Bellano, località Vendrogno. Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
 ---
 
 {{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, nella Valle della Muggiasca, in provincia di Lecco.
 
-L’ Alpe Camaggiore è un piccolo alpeggio a picco sul lago, nel territorio di Bellano, località Vendrogno. Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
 
 ---
 
