@@ -49,7 +49,11 @@ Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio
 {{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
+L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini però disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
 
+---
+
+{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
 
