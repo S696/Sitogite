@@ -51,8 +51,9 @@ L’ Alpe Camaggiore è un piccolo alpeggio a picco sul lago, nel territorio di 
 
 ---
 
-Ritrovo alle 09.30 presso il  [Agriturismo La Colombara di Gaium (VR)](https://g.page/la-colombara?share). 
-A seguito della Discesa in gommone si potrà decidere se pranzare con il pranzo al sacco nel prato accanto alla società di rafting oppure presso l'agriturismo. 
+Ritrovo alle 09.30 presso il  [L'ospedale di Bellano](https://goo.gl/maps/CvQRirpgzzxkSLLq9). 
+
+Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 
 --- 
 #### Impegno fisico
