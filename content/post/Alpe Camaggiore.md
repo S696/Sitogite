@@ -40,7 +40,7 @@ editPost:
 
 <!--more--> 
 
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, nella Valle della Muggiasca, in provincia di Lecco.
+Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, in provincia di Lecco.
 
 Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
 
