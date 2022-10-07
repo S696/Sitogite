@@ -45,12 +45,12 @@ Attraverseremo un tratto del fiume molto piacevole alla scoperta della Terra dei
 
 ---
 
-{{< figure src="/AlpeCamagiore.jpg #centered" width=500 height=300 title=" Rafting Adige " >}}
+{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
-La società che ci permetterà di fare questa gita è https://xadventure.it, a bordo del gommone saremo accompagnati da un istruttore certificato che ci supporterà lungo la discesa oltre ad insegnarci i rudimenti di questa disciplina e i movimenti base per viaggiare in sicurezza sul gommone.
+Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, nella Valle della Muggiasca, in provincia di Lecco.
 
-Non è richiesta alcuna esperienza o particolare atleticità, è un'attività adatta a tutti e fcilmente afforntabile, avremo a disposizione tutti gli aiuti del caso al fine di fare un'esperienza alternativa all'insegna del divertimento.
+L’ Alpe Camaggiore è un piccolo alpeggio a picco sul lago, nel territorio di Bellano, località Vendrogno. Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
 
 ---
 
