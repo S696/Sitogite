@@ -36,7 +36,7 @@ editPost:
 
 
 
-#### Adige non ti temo 
+#### La perla della Muggiasca 
 
 <!--more--> 
 Dopo aver solcato il Naviglio grande di Milano, ci aspetta una nuova avventura sull'Adige a bordo di gommoni da rafting! 
@@ -45,7 +45,7 @@ Attraverseremo un tratto del fiume molto piacevole alla scoperta della Terra dei
 
 ---
 
-{{< figure src="/rafting.jpg #centered" width=500 height=300 title=" Rafting Adige " >}}
+{{< figure src="/AlpeCamagiore.jpg #centered" width=500 height=300 title=" Rafting Adige " >}}
 
 ---
 La società che ci permetterà di fare questa gita è https://xadventure.it, a bordo del gommone saremo accompagnati da un istruttore certificato che ci supporterà lungo la discesa oltre ad insegnarci i rudimenti di questa disciplina e i movimenti base per viaggiare in sicurezza sul gommone.

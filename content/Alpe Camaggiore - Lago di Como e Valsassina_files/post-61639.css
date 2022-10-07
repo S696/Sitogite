@@ -1,0 +1,21 @@
+.elementor-kit-61639{--e-global-color-primary:#006699;--e-global-color-secondary:#929292;--e-global-color-text:#929292;--e-global-color-accent:#006699;--e-global-color-60bba128:#6EC1E4;--e-global-color-16575677:#54595F;--e-global-color-52415376:#7A7A7A;--e-global-color-6af37277:#61CE70;--e-global-color-50afd3db:#4054B2;--e-global-color-b6c6971:#23A455;--e-global-color-7f140775:#000;--e-global-color-9ad8ce9:#FFF;--e-global-color-1d8793e:#F78620;--e-global-typography-primary-font-family:"BebasNeue";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'BebasNeue';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/BebasNeue-Regular.eot');
+	src: url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/BebasNeue-Regular.woff2') format('woff2'),
+		url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/BebasNeue-Regular.woff') format('woff'),
+		url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/BebasNeue-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BebasNeue';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/bebasneue_light-webfont.woff2') format('woff2'),
+		url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/bebasneue_light-webfont.woff') format('woff'),
+		url('https://www.montagnelagodicomo.it/wp-content/uploads/2019/11/BebasNeue-Light.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

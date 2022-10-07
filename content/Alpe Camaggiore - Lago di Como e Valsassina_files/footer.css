@@ -1,0 +1,267 @@
+/* FOOTER */
+.mlc-footer {
+  background-color: #dbdbdb;
+  margin-bottom: 20px;
+}
+
+.mlc-footer a {
+  text-decoration: none;
+  color: #929292;
+}
+
+.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mlc-footer footer {
+  width: 100vw;
+  background-color: #dbdbdb;
+  padding: 60px 0;
+}
+
+.mlc-footer .container {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.mlc-footer section {
+  width: 25%;
+  padding: 40px 15px;
+}
+
+.mlc-footer-3 section {
+  width: 33.33%;
+  padding: 40px 15px;
+}
+
+.mlc-footer h4 {
+  font-family: 'Bebas Neue', 'BebasNeue', cursive;
+  font-size: 35px;
+  color: #006699;
+  margin-bottom: 10px;
+}
+
+.mlc-footer h3 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.mlc-footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.subscribeForm .widgettitle,
+.subscribeForm .muDescription {
+  display: none;
+}
+
+.footer-bottom {
+  background-color: #dbdbdb;
+}
+
+/* news section */
+
+.news li {
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+
+.news li a {
+  line-height: 1.25em;
+  font-size: 16px;
+}
+
+.news ul li:before {
+  content: '\2014';
+  position: absolute;
+  margin-left: -30px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 0.5em;
+  color: #929292;
+}
+
+/* e-commerce section */
+.e-commerce li {
+  margin-bottom: 10px;
+}
+
+.e-commerce li a {
+  line-height: 1.5em;
+  font-size: 16px;
+}
+
+/* footer bottom */
+.footer-bottom .container {
+  justify-content: center;
+}
+
+.footer-bottom p {
+  padding: 30px 0;
+  margin: 0;
+  font-size: 15px;
+}
+
+.mlc-footer p > a {
+  text-decoration: underline;
+  font-size: 15px;
+}
+
+/* sticky menu */
+.social {
+  overflow: hidden;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  z-index: 100;
+}
+
+.social a {
+  color: white;
+  font-size: 26px;
+  text-decoration: none;
+}
+
+.social a div {
+  width: 40px;
+  height: 40px;
+}
+
+.facebook {
+  background-color: #3c589a;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.pinterest {
+  background-color: #cc232a;
+}
+
+.whatsapp {
+  background-color: #55eb4c;
+}
+
+.mail {
+  background-color: #649a49;
+}
+
+/* newsletter section */
+.mlc-footer fieldset {
+  padding: 0;
+}
+
+.muField input {
+  width: 100%;
+  font-size: 13px;
+  padding: 5px;
+  border: 1px solid #929292;
+  border-radius: 3px;
+}
+
+.subscribeDataTable p {
+  color: #929292;
+}
+
+.subscribeDataTable .muField,
+.subscribeDataTable .muTerms,
+.subscribeDataTable .muTermsCheckbox {
+  margin-bottom: 10px;
+}
+
+.sub-email {
+  color: #929292;
+}
+
+.muTerms {
+  font-size: 12px;
+}
+
+.mlc-footer input::placeholder {
+  color: #929292 !important;
+}
+
+.muTermsCheckbox {
+  font-size: 15px;
+}
+
+.subscribeForm fieldset {
+  background-image: none !important;
+  padding: 0 !important;
+}
+
+.muSubmit input {
+  border: none !important;
+  color: #fff !important;
+  background-color: #006699 !important;
+  cursor: pointer !important;
+  font-size: 13px !important;
+  padding: 8px 20px !important;
+  border-radius: 20px;
+}
+
+.green-block {
+  display: block;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+}
+
+.green-block img {
+  width: 250px;
+  height: auto;
+}
+
+/* media queries */
+
+@media screen and (max-width: 1024px) {
+  .mlc-footer footer .container {
+    flex-wrap: wrap;
+  }
+
+  .mlc-footer section {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .mlc-footer footer .container {
+    flex-wrap: wrap;
+  }
+
+  .footer-bottom {
+    padding-bottom: 40px;
+  }
+
+  .mlc-footer section {
+    width: 100%;
+  }
+
+  .social {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    width: 100vw;
+  }
+
+  .social a {
+    width: 25%;
+  }
+
+  .social a div {
+    width: 100%;
+  }
+}
