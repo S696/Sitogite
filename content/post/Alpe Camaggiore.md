@@ -53,7 +53,7 @@ L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conq
 
 ---
 
-{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
+{{< figure src="/RifugioRagno.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
 
 ---
 
