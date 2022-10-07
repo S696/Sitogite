@@ -49,7 +49,7 @@ Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio
 {{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
-L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini però disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
+L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
 
 ---
 
@@ -65,17 +65,13 @@ Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 #### Impegno fisico
 
         - ⏱️ 2.30h di discesa
-        - 💸 20€
 
 
 #### Attrezzatura necessaria:  
-- scarpe da ginnastica che si bagnano o sandali chiusi
-- costume da bagno
-- pantaloncino corto 
-- maglietta
-- bottiglietta d’acqua
-- una busta stagna porta cellulare 
+- Scarpe adeguate ad una gita in montagna (i tacchi o le superga non vanno bene)
+- bottiglietta d’acqua 
 - occhiali da sole
 - berretto per il sole e crema solare
-- Asciugamano e ricambio per dopo l’attività, da lasciare in macchina
+- Felpa 
+- K way
 - voglia di vivere 
