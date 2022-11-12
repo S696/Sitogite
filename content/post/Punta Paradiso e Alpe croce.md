@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Conquistiamo il lago di Lecco"
+description: "Abbracciamo il lago di varese"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,13 +36,13 @@ editPost:
 
 
 
-#### La perla della Muggiasca 
+#### Un viaggio in Paradiso 
 
 <!--more--> 
 
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, in provincia di Lecco.
+Percorso ad anello. Circa 400 metri di dislivello(salita) e 11 km, si sale per la mulattiera fino a raggiungere Punta Paradiso e giunti lì si capisce il perché del nome, successivamente si lasciano alcune baite a sx e si entra nella storia, percorrendo gallerie e trincee della Linea Cadorna, arrivati a Sasso Paradiso altro scorcio sul Lago Ceresio, poi Alpe Croce ed in salita si giunge alla Bocchetta Stivioni, punto più alto di questo percorso.
 
-Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
+In discesa sullo sterrato che porta alla frazione Imborgnana e si imbocca una vecchia strada che porta a Cavagnano.
 
 ---
 
