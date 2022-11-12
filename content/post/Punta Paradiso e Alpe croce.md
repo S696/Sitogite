@@ -40,13 +40,12 @@ editPost:
 
 <!--more--> 
 
-Percorso ad anello. Circa 400 metri di dislivello(salita) e 11 km, si sale per la mulattiera fino a raggiungere Punta Paradiso e giunti lì si capisce il perché del nome, successivamente si lasciano alcune baite a sx e si entra nella storia, percorrendo gallerie e trincee della Linea Cadorna, arrivati a Sasso Paradiso altro scorcio sul Lago Ceresio, poi Alpe Croce ed in salita si giunge alla Bocchetta Stivioni, punto più alto di questo percorso.
-
-In discesa sullo sterrato che porta alla frazione Imborgnana e si imbocca una vecchia strada che porta a Cavagnano.
+Faremo un percorso ad anello salendo per una mulattiera fino a raggiungere Punta Paradiso e giunti lì capirete il perché del nome, successivamente incontreremo due baite ed avremo inoltre l'opportunità di entrare nella storia, percorrendo gallerie e trincee della Linea Cadorna.
+Giunti a Sasso Paradiso potremo godere di uno scorcio sul Lago Ceresio, successivamente proseguiremo per l'Alpe Croce e la Bocchetta Stivioni che è il punto più alto di questo percorso.
 
 ---
 
-{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
+{{< figure src="/puntaparadiso.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
 L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
@@ -64,7 +63,9 @@ Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 --- 
 #### Impegno fisico
 
-        - ⏱️ 2.30h di salita
+        - ⏱️ 4.00h totali di cammino
+        - dislivello 400m
+        - lunghezza 11km
 
 
 #### Attrezzatura necessaria:  
