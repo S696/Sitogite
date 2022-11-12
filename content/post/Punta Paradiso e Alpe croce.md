@@ -61,8 +61,8 @@ Ritrovo alle 09.30 presso  [Via della croce 3 Cuasso al Monte](https://goo.gl/ma
 #### Impegno fisico
 
         - ⏱️ 4.00h totali di cammino
-        - dislivello 400m
-        - lunghezza 11km
+        - ⛰️ dislivello 400m
+        - 📏 lunghezza 11km
 
 
 #### Attrezzatura necessaria:  
