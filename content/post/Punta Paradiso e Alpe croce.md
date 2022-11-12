@@ -45,20 +45,17 @@ Giunti a Sasso Paradiso potremo godere di uno scorcio sul Lago Ceresio, successi
 
 ---
 
-{{< figure src="/puntaparadiso.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
+{{< figure src="/puntaparadiso.jpg #centered" width=500 height=300 title=" Punta Paradiso" >}}
 
 ---
-L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
+La linea Cadorna di cui avremo l'opportunità di vederne un pezzo durante la nostra passeggiata è la denominazione ufficiale con la quale oggi si identifica il sistema di fortificazioni costruito lungo il confine italo-svizzero tra l’estate del 1915 e la primavera del 1918, durante il primo conflitto mondiale, nel momento in cui si ebbe timore che, penetrando dai valichi alpini delle Alpi centrali svizzere, le truppe austro-tedesche potessero in breve tempo raggiungere ed occupare i centri nevralgici industriali ed economici del nostro paese
+---
+
+{{< figure src="/lineacadorna.jpg #centered" width=500 height=300 title="Linea Cadorna" >}}
 
 ---
 
-{{< figure src="/RifugioRagno.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
-
----
-
-Ritrovo alle 09.30 presso il  [L'ospedale di Bellano](https://goo.gl/maps/CvQRirpgzzxkSLLq9). 
-
-Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
+Ritrovo alle 09.30 presso  [Via della croce 3 Cuasso al Monte](https://goo.gl/maps/NYKS7KJTzPc6tygc9). 
 
 --- 
 #### Impegno fisico
