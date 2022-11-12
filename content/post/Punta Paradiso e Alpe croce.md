@@ -48,7 +48,9 @@ Giunti a Sasso Paradiso potremo godere di uno scorcio sul Lago Ceresio, successi
 {{< figure src="/puntaparadiso.jpg #centered" width=500 height=300 title=" Punta Paradiso" >}}
 
 ---
+
 La linea Cadorna di cui avremo l'opportunità di vederne un pezzo durante la nostra passeggiata è la denominazione ufficiale con la quale oggi si identifica il sistema di fortificazioni costruito lungo il confine italo-svizzero tra l’estate del 1915 e la primavera del 1918, durante il primo conflitto mondiale, nel momento in cui si ebbe timore che, penetrando dai valichi alpini delle Alpi centrali svizzere, le truppe austro-tedesche potessero in breve tempo raggiungere ed occupare i centri nevralgici industriali ed economici del nostro paese
+
 ---
 
 {{< figure src="/lineacadorna.jpg #centered" width=500 height=300 title="Linea Cadorna" >}}
