@@ -62,14 +62,17 @@ Il santuario di San Miro al Monte è costruito a 604 metri di altitudine, Il com
 
 ---
 
-Ritrovo alle 09.30 presso il  [L'ospedale di Bellano](https://goo.gl/maps/CvQRirpgzzxkSLLq9). 
+Ritrovo alle 09.30 presso il  [località gajum](https://goo.gl/maps/fJ4fU56xroX2GzBX8). 
 
-Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
+se non c'è parcheggio quì cercate dentro Canzo ad esempio [quì] (https://goo.gl/maps/VsoKkCx8gjAFoT7c7)
+
+Segnalo che per questa gita è molto agevole venire anche in treno da Milano 
 
 --- 
 #### Impegno fisico
 
-        - ⏱️ 2.30h di salita
+        - ⏱️ 4h totali
+        - ⛰️ 800m di dislivello 
 
 
 #### Attrezzatura necessaria:  
