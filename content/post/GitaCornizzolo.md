@@ -36,7 +36,7 @@ editPost:
 
 
 
-#### Il triangol lariano 
+#### Il triangolo lariano 
 
 <!--more--> 
 
@@ -55,6 +55,7 @@ Dalla sommità del monte Cornizzolo potremo  apprezzare un panorama a 360 gradi,
 Lungo il percorso avremo l'opportunità di visitare la chiesa di San Miro al Monte che ha preso vita tra il 1643 e il 1660, occupando il luogo precedentemente riempito da un oratorio con tre altari e un edificio a due piani. Fino al 1810 fu tenuto in vita da una comunità di frati che coltivavano dei terrapieni ancora visibili, ottenuti con muri a secco sul versante opposto del torrente. Proprio il torrente Ravella crea, dietro al santuario, una piccola cascatella.
 
 Il santuario di San Miro al Monte è costruito a 604 metri di altitudine, Il complesso è dedicato a San Miro Paredi, nato a Canzo e vissuto nel trecento. Qui scelse di vivere la sua vita come eremita e dormiva in una piccola grotta collocata in direzione opposta alla chiesa
+
 ---
 
 {{< figure src="/sanmiro.jpg #centered" width=500 height=300 title=" San Miro al monte " >}}
