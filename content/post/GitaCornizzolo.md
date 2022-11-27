@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Conquistiamo il lago di Lecco"
+description: "Conquistiamo il triangolo lariano"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,20 +36,20 @@ editPost:
 
 
 
-#### La perla della Muggiasca 
+#### Il triangol lariano 
 
 <!--more--> 
 
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, in provincia di Lecco.
+Il monte Cornizzolo è nel cosiddetto Triangolo Lariano, ovvero quel lembo di terra posizionato tra i due rami del lago di Como, quello lecchese e quello comasco. Non è particolarmente a nord, ma spostato verso la parte sud orientale di questa zona.
 
-Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
+Il territorio occupato dal monte Cornizzolo è diviso tra le province di Como e di Lecco ed è compreso all’interno delle Prealpi Lombarde.
 
 ---
 
 {{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
 
 ---
-L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
+Dalla sommità del monte Cornizzolo potremo  apprezzare un panorama a 360 gradi, potendo ammirare i Corni di Canzo, il monte Rai e il Corno Birone e i laghi sottostanti. A est il lago di Garlate che fa da sfondo alla particolare forma del lago di Annone, mentre a sud e a ovest il lago di Pusiano e il lago del Segrino.
 
 ---
 
