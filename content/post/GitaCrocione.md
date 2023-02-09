@@ -1,6 +1,6 @@
 ---
-weight: 13
-title: "Gita tutti i gusti | 19/12/2021"
+weight: 1
+title: "Gita Monte crocione | 18/02/2023"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -36,12 +36,11 @@ editPost:
 
 
 
-#### Siccome a Natale dobbiamo essere più buoni, questa gita è stata pensata per far sentire tutti accolti o almeno provarci
+#### Questa gita è stata pensata per provare a far sentire tutti accolti
 
 <!--more--> 
 
-Per fare in modo che ciascuno possa sostenere l'impegno fisico che gli è più gradito, si potrà decidere di raggiungere il [Rifugio Nicola](https://www.rifugi.lombardia.it/lecco/barzio/rifugio-nicola.html) o godersi i piani [Piani di artavaggio](https://www.pianidibobbio.com/artavaggio) *senza camminare*
-
+L'obiettivo di questa gita sarà quello di raggiungere il [Rifugio Nicola](https://www.rifugi.lombardia.it/lecco/barzio/rifugio-nicola.html), posto in cima ai [Piani di artavaggio](https://www.pianidibobbio.com/artavaggio) che sono un altopiano sopra la ridente località di Moggio. Affinchè tutti possano trovare appagante questa gita si potranno scegliere differenti itinerari sia per raggiungere i piani che per raggiungere il rifugio prevedendo un maggiore o minore impegno fisico.
 
 ---
 
@@ -54,7 +53,7 @@ Per fare in modo che ciascuno possa sostenere l'impegno fisico che gli è più g
 
 ---
 
-Ritrovo alle 9.30 presso questo [parcheggio](https://g.page/Artavaggio?share), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto nelle vie adiacenti al parcheggio della funivia
+Ritrovo alle 9.00 presso questo [parcheggio](https://g.page/Artavaggio?share), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto nelle vie adiacenti al parcheggio della funivia
 
 --- 
 #### Ciascuno potrà personalizzare il proprio percorso in abse a queste tre modalità:
