@@ -36,15 +36,15 @@ editPost:
 
 
 
-#### Questa gita è stata pensata per provare a far sentire tutti accolti
+#### In mezzo al lago di Como meglio meglio dei promessi sposi 
 
 <!--more--> 
 
-L'obiettivo di questa gita sarà quello di raggiungere il [Rifugio Nicola](https://www.rifugi.lombardia.it/lecco/barzio/rifugio-nicola.html), posto in cima ai [Piani di artavaggio](https://www.pianidibobbio.com/artavaggio) che sono un altopiano sopra la ridente località di Moggio. Affinchè tutti possano trovare appagante questa gita si potranno scegliere differenti itinerari sia per raggiungere i piani che per raggiungere il rifugio prevedendo un maggiore o minore impegno fisico.
+Il Monte Crocione, alto 1.641 metri, si rivela come una sentinella posizionata nel centro del lago di Como esattamente davanti alla penisola di Bellagio. Dalla vetta si gode di un panorama aereo ampissimo che permette di dominare il Lago da nord a sud e abbracciare con lo sguardo tutte le vette che lo circondano.
 
 ---
 
-{{< figure src="/rifugionicola.jpg#centered" width=600 height=300 title="Rifugio Nicola" >}}
+{{< figure src="/montecrocione.jpg#centered" width=600 height=300 title="Monte Crocione" >}}
 
 ---
 
