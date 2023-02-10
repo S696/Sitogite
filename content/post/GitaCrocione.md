@@ -57,25 +57,10 @@ Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1.7
 
 Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/xJxCTkQrwWsMoUVv5), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
 --- 
-#### Ciascuno potrà personalizzare il proprio percorso in abse a queste tre modalità:
-
-*Gold* --> (avrai la mia stima) da Moggio fino al rifugio Nicola a piedi 
    
     - impegno fisico:
-        - ⏱️ Durata 2h30'
-        - ⬆️ Dislivello 1000m
-
-*Silver* --> da Moggio ai piani di artavaggio in [funivia](https://www.pianidibobbio.com/prezzi-orari/artavaggio),  (cliccando su funivia si aprirà il sito con i relativi costi), successivamente dai piani di artavaggio al rifugio Nicola a piedi
-
-    - impegno fisico:
-        - ⏱️ Durata 40 min
-        - ⬆️ Dislivello 200m
-
-*Bronze* --> da Moggio ai piani di Artavaggio in funivia, successivamente da lì al rifugio [Sassi castelli]([funivia](https://www.pianidibobbio.com/prezzi-orari/artavaggio)) a piedi
-
-        - impegno fisico:
-        - zero 🙈🙉🙊
-
+        - ⏱️ Durata 3h'
+        - ⬆️ Dislivello 500m
 
 ---
 #### Requisiti necessari:  
