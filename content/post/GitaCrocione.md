@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Gita facile o difficile"
+description: "Gita facile e panoramica"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -56,7 +56,7 @@ Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1.7
 ---
 
 Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/xJxCTkQrwWsMoUVv5), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps).
- 
+
 --- 
    
     - impegno fisico:
