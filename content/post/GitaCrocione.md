@@ -55,7 +55,8 @@ Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1.7
 
 ---
 
-Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/xJxCTkQrwWsMoUVv5), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
+Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/xJxCTkQrwWsMoUVv5), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps).
+ 
 --- 
    
     - impegno fisico:
