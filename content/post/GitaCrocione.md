@@ -65,9 +65,8 @@ Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/xJxCTkQrwWsMoUV
 
 ---
 #### Requisiti necessari:  
-- pranzo al sacco o eventualmente pranzo al rifugio Nicola o Sassi Castelli (consiglio di prenotare )
 - scarpe adeguate ad una gita in montagna 🥾 
-- ciaspole, non è detto che siano necessarie, ma meglio averle. Qualora non le possediate potrete noleggiarle nei pressi della funivia 
+- Voglia di vivere
 - giacca a vento
 - felpa
-- ricambio se si vuole partecipare ad una *violenta* e *spietata* guerra a palle di neve ❄️
+- ricambio 
