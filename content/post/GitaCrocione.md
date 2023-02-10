@@ -47,9 +47,11 @@ Il Monte Crocione, alto 1.641 metri, si rivela come una sentinella posizionata n
 {{< figure src="/montecrocione.jpg#centered" width=600 height=300 title="Monte Crocione" >}}
 
 ---
+Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1.700mt) ed in seguito quella del del Monte Crocione (1.640mt), passando dal rifugio Boffalora e Venini. Dalla vetta del Monte Crocione sarà possibile ammirare in un unico colpo d'occhio l'intero Lago di Como nelle sue biforcazioni, le principali vette della zona e anche quelle del gruppo del Bernina e del Monte Rosa.
 
+---
 
-{{< figure src="/pianidiartavaggio.jpg#centered" width=600 height=300 title="Piani di Artavaggio" >}}
+{{< figure src="/montetremezzo.jpg#centered" width=600 height=300 title="Monte di Tremezzo" >}}
 
 ---
 
