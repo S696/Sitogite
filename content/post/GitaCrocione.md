@@ -55,8 +55,7 @@ Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1.7
 
 ---
 
-Ritrovo alle 9.00 presso questo [parcheggio](https://g.page/Artavaggio?share), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). Qualora risulti tutto pieno, si può lasciare l’auto nelle vie adiacenti al parcheggio della funivia
-
+Ritrovo alle 9.30 presso questo [parcheggio](https://goo.gl/maps/xJxCTkQrwWsMoUVv5), (cliccado su parcheggio si aprirà automaticamente la posizione da raggiungere su GooleMaps). 
 --- 
 #### Ciascuno potrà personalizzare il proprio percorso in abse a queste tre modalità:
 
