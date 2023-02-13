@@ -36,18 +36,22 @@ editPost:
 
 
 
-#### In mezzo al lago di Como meglio meglio dei promessi sposi 
+#### Al centro del lago di Como, come essere nei Promessi Sposi
 
 <!--more--> 
 
-Il Monte Crocione, alto 1.641 metri, si rivela come una sentinella posizionata nel centro del lago di Como esattamente davanti alla penisola di Bellagio. Dalla vetta si gode di un panorama aereo ampissimo che permette di dominare il Lago da nord a sud e abbracciare con lo sguardo tutte le vette che lo circondano.
+Il monte Crocione, alto 1641 metri, si rivela come una sentinella al centro del Lago di Como, esattamente davanti alla penisola di Bellagio. Dalla vetta si gode un panorama aereo amplissimo che permette di dominare il lago da nord a sud, abbracciando con lo sguardo tutte le vette che lo circondano.
 
 ---
 
 {{< figure src="/montecrocione.jpg#centered" width=600 height=300 title="Monte Crocione" >}}
 
 ---
-Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1.700mt) ed in seguito quella del del Monte Crocione (1.640mt), passando dal rifugio Boffalora e Venini. Dalla vetta del Monte Crocione sarà possibile ammirare in un unico colpo d'occhio l'intero Lago di Como nelle sue biforcazioni, le principali vette della zona e anche quelle del gruppo del Bernina e del Monte Rosa.
+Faremo un percorso che toccherà in sequenza la vetta del Monte di Tremezzo (1700 mt) e quella del Monte Crocione (1641 mt), passando dal rifugio Boffalora e dal rifugio Venini. Dall’alto del Monte Crocione sarà possibile ammirare in un unico colpo d’occhio l’intero lago di Como nelle sue biforcazioni, le principali vette della zona e quelle del gruppo del Bernina e del Monte Rosa.
+
+Dal rifugio Venini si raggiungono alcune strutture militari abbandonate. Di qui infatti passava la Linea Cadorna, ila Frontiera Nord che durante la Grande Guerra andava dalla Val d’Ossola, in Piemonte, fino alla Valtellina. Fu costruita fra il 1916 e il 1917 per impedire un eventuale passaggio delle truppe tedesche attraverso la Svizzera verso Milano. 
+
+Curiosità: la Svizzera, pur essendo neutrale al conflitto e resasi conto di quanto stava facendo l’Italia, cominciò a preoccuparsi per un’ipotetica invasione e cominciò anch’essa a creare difese nel Ticino, tutt’ora esistenti e oggi visitabili. 
 
 ---
 
