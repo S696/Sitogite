@@ -40,8 +40,8 @@ editPost:
 
 <!--more--> 
 
-Raggiungeremo la croce di Predore che è l'anticima del monte Bronzone dalla quale si può ammirare un vasto panorama che in quanto 
-si tratta di una posizione particolarmente esposta verso la pianura con una vista eccezionale sul settore meridionale del Lago 
+Raggiungeremo la croce di Predore che è l'anticima del monte Bronzone dalla quale si potrà ammirare un vasto panorama che in 
+data la posizione particolarmente esposta verso la pianura che permette una vista eccezionale sul settore meridionale del Lago 
 d’Iseo. 
 All’estremità inferiore del Sebino notiamo i paesi di Sarnico e Paratico sovrastati a sinistra dal rilievo boscoso del Monte 
 Alto, mentre di fronte a noi osserviamo il paese di Iseo e le Torbiere del Sebino. 
@@ -55,10 +55,9 @@ direzione opposta, verso nordest, ammiriamo la grande cupola sommitale del Monte
 
 ---
 
-A settentrione troneggia il Monte Bronzone, prossimo obiettivo della nostra escursione. Alla sua destra sfilano in lontananza le 
-vette del Gruppo dell’Adamello oltre all’inconfondibile parete rocciosa della Presolana, già nelle Alpi Orobie. Un panorama che 
-meraviglia e sorprende nelle giornate più terse per la sua vastità nonostante la quota non così rilevante. A concludere il tutto 
-spicca, all’orizzonte meridionale, la lunga catena appenninica immediatamente oltre la Val Padana.
+A settentrione troneggia invece il Monte Bronzone, alla sua destra sfilano in lontananza le 
+vette del Gruppo dell’Adamello oltre all’inconfondibile parete rocciosa della Presolana, già nelle Alpi Orobie. 
+A concludere il tutto spicca, all’orizzonte meridionale, la lunga catena appenninica immediatamente oltre la Val Padana.
 
 ---
 
