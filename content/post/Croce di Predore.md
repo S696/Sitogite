@@ -40,16 +40,25 @@ editPost:
 
 <!--more--> 
 
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, in provincia di Lecco.
+Raggiungeremo la croce di Predore che è l'anticima del monte Bronzone dalla quale si può ammirare un vasto panorama che in quanto 
+si tratta di una posizione particolarmente esposta verso la pianura con una vista eccezionale sul settore meridionale del Lago 
+d’Iseo. 
+All’estremità inferiore del Sebino notiamo i paesi di Sarnico e Paratico sovrastati a sinistra dal rilievo boscoso del Monte 
+Alto, mentre di fronte a noi osserviamo il paese di Iseo e le Torbiere del Sebino. 
+A destra del lago notiamo, in primo piano, la sommità erbosa del Colle Camblino a coprire in parte il paese di Villongo mentre in 
+direzione opposta, verso nordest, ammiriamo la grande cupola sommitale del Monte Guglielmo. 
 
-Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle passeggiate.
 
 ---
 
 {{< figure src="/crocepredore.jpg #centered" width=500 height=300 title=" Croce predore vista lago " >}}
 
 ---
-L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
+
+A settentrione troneggia il Monte Bronzone, prossimo obiettivo della nostra escursione. Alla sua destra sfilano in lontananza le 
+vette del Gruppo dell’Adamello oltre all’inconfondibile parete rocciosa della Presolana, già nelle Alpi Orobie. Un panorama che 
+meraviglia e sorprende nelle giornate più terse per la sua vastità nonostante la quota non così rilevante. A concludere il tutto 
+spicca, all’orizzonte meridionale, la lunga catena appenninica immediatamente oltre la Val Padana.
 
 ---
 
