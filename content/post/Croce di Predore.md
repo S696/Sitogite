@@ -51,7 +51,7 @@ direzione opposta, verso nordest, ammiriamo la grande cupola sommitale del Monte
 
 ---
 
-{{< figure src="/crocepredore.jpeg #centered" width=500 height=300 title=" Croce predore vista lago " >}}
+{{< figure src="/crocepredore.jpg #centered" width=500 height=300 title=" Croce predore vista lago " >}}
 
 ---
 
