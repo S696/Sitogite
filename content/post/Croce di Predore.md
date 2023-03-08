@@ -36,7 +36,7 @@ editPost:
 
 
 
-#### La perla della Muggiasca 
+#### Esploriamo il lago di Iseo  
 
 <!--more--> 
 
@@ -46,14 +46,14 @@ Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio
 
 ---
 
-{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
+{{< figure src="/crocepredore.jpg #centered" width=500 height=300 title=" Croce predore vista lago " >}}
 
 ---
 L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
 
 ---
 
-{{< figure src="/RifugioRagno.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
+{{< figure src="/crocepredore2.jpg #centered" width=500 height=300 title=" Croce predore vista montagna " >}}
 
 ---
 
