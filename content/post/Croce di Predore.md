@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Conquistiamo il lago di Lecco"
+description: "Conquistiamo Iseo"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -64,7 +64,8 @@ Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 --- 
 #### Impegno fisico
 
-        - ⏱️ 2.30h di salita
+        - ⏱️ 4.00h di cammino totali 
+        - ⛰️ 700m di dislivello 
 
 
 #### Attrezzatura necessaria:  
