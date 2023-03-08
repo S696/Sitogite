@@ -66,9 +66,8 @@ spicca, all’orizzonte meridionale, la lunga catena appenninica immediatamente 
 
 ---
 
-Ritrovo alle 09.30 presso il  [L'ospedale di Bellano](https://goo.gl/maps/CvQRirpgzzxkSLLq9). 
+Ritrovo alle 09.30 presso il  [Palasport di Predore](https://goo.gl/maps/c1Ndr6FsByYNBJ268). 
 
-Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 
 --- 
 #### Impegno fisico
