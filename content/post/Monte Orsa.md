@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Alpe Camaggiore | 23/10/2022"
+title: "Monte Orsa | 22/04/2023"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Conquistiamo il lago di Lecco"
+description: "Tutti al villaggio"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,35 +36,41 @@ editPost:
 
 
 
-#### La perla della Muggiasca 
+#### Storia, guerra ed escursionismo 
 
 <!--more--> 
 
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, in provincia di Lecco.
-
-Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle montagne. 
+Per gli appassionati di storia, di guerra e di escursionismo questo percorso offre la possibilità di vedere praticamente intatte opere belliche della linea Cadorna, panorami mozzafiato e boschi di latifoglie. Camminando in cresta possiamo seguire il collegamento tra il Monte Orsa e il Monte Pravello attraverso i camminamenti e le postazioni, i bunker e le garitte, che inseritesi perfettamente nella natura, continuano a regalare la suggestione e il fascino della storia.
 
 ---
 
-{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
+{{< figure src="/monteorsa.jpg #centered" width=500 height=300 title=" Monte Orsa " >}}
 
 ---
-L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
+Cominceremo il nostro percorso dal paese di Viggiù (461m) procederemo verso il Colle Sant’Elia fino ad incontrare le indicazioni dei monti che sono la nostra meta.
+
+Il Monte Pravello a 1015 mt regalerà la vista di un bellissimo panorama sul Lago Ceresio e le Prealpi sopra Lugano. Lasciata la vetta proseguiremo fino al Monte Orsa: da qui si incontrano le fortificazioni e i pannelli didattici che la linea cadorna.
+
+Dalla cima del Monte Orsa (998m) la vista è ampissima, può spaziare dalle colline della Brianza alle Alpi svizzere e addirittura fino ai monti dell’Ossola. 
+
+Da qui torneremo verso Viggiù, seguendo le indicazioni per concludere l’anello.
 
 ---
 
-{{< figure src="/RifugioRagno.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
+{{< figure src="/monteorsa2.jpg #centered" width=500 height=300 title=" Linea Cdorna " >}}
 
 ---
 
-Ritrovo alle 09.30 presso il  [L'ospedale di Bellano](https://goo.gl/maps/CvQRirpgzzxkSLLq9). 
+Ritrovo alle 09.30 presso la [Scuola elementare di Saltrio](https://goo.gl/maps/H7eFErE1bbNWgvK96). 
 
 Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 
 --- 
 #### Impegno fisico
 
-        - ⏱️ 2.30h di salita
+        - ⏱️ 4.30h di cammino totale
+        - ⛰️ dislivello 650m
+        - 📏 lunghezza 12km
 
 
 #### Attrezzatura necessaria:  
