@@ -63,8 +63,6 @@ Da qui torneremo verso Viggiù, seguendo le indicazioni per concludere l’anell
 
 Ritrovo alle 09.30 presso la [Scuola elementare di Saltrio](https://goo.gl/maps/H7eFErE1bbNWgvK96). 
 
-Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
-
 --- 
 #### Impegno fisico
 
