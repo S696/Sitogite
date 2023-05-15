@@ -58,14 +58,15 @@ Storia, natura, tradizione, attività sportive e turismo rappresentano l’offer
 
 ---
 
-Ritrovo alle 09.30 presso il  [L'ospedale di Bellano](https://goo.gl/maps/CvQRirpgzzxkSLLq9). 
+Ritrovo alle 09.30 presso questo [Parcheggio] (https://goo.gl/maps/b18J3YWPwrPAuhXD9). 
 
 Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 
 --- 
 #### Impegno fisico
 
-        - ⏱️ 2.30h di salita
+        - ⏱️ 3h di cammino totali 
+        - ⬆️ Dislivello 600m
 
 
 #### Attrezzatura necessaria:  
