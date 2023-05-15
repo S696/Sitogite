@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Alpe Camaggiore | 23/10/2022"
+title: "Monte Bisbino | 20/05/2023"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Conquistiamo il lago di Lecco"
+description: "Sul confine della Svizzera"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,17 +36,17 @@ editPost:
 
 
 
-#### La perla della Muggiasca 
+#### L'altro ramo del lago di Como 
 
 <!--more--> 
 
-Camaggiore è soprannominato dai milanesi la “Perla della Muggiasca” per via del panorama che si gode dalla cima. Per la gente della Valsassina, però, questo luogo è semplicemente l’Alpe Camaggiore, un piccolo alpeggio a picco sul lago, in provincia di Lecco.
+Il Monte Bisbino è una montagna particolare con il versante nord-ovest in territorio svizzero mentre la cima e gli altri versanti in territorio italiano. Per questo per molti secoli è stato terra di passaggio fra i due stati ma anche zona molto frequentata dagli abitanti comaschi per le attività silvo pastorali. Il M. Bisbino è famoso anche per la vista fantastica su Como e il suo lago.
 
-Famosa per il panorama stupendo che si gode da questi luoghi su Bellano e Dervio, Camaggiore è una meta di relax e svago per famiglie e amanti del sole e delle montagne. 
+Raggiungendo la vetta dove si trovano un Santuario dedicato alla Beata Vergine, un ristoro e un piccolo Museo di storia locale, aperto occasionalmente.
 
 ---
 
-{{< figure src="/AlpeCamaggiore.jpg #centered" width=500 height=300 title=" Alpe Camaggiore " >}}
+{{< figure src="/montebisbino.jpg #centered" width=500 height=300 title=" Monte Bisbino " >}}
 
 ---
 L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
