@@ -54,13 +54,12 @@ Storia, natura, tradizione, attività sportive e turismo rappresentano l’offer
 
 ---
 
-{{< figure src="/santuariobisbino.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
+{{< figure src="/santuariobisbino.jpg #centered" width=500 height=300 title=" Santuario Beata Vergine " >}}
 
 ---
 
 Ritrovo alle 09.30 presso questo [Parcheggio] (https://goo.gl/maps/b18J3YWPwrPAuhXD9). 
 
-Vista la difficoltà della gita il parcheggio è stato scelto di conseguenza ;)
 
 --- 
 #### Impegno fisico
