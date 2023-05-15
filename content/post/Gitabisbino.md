@@ -40,20 +40,21 @@ editPost:
 
 <!--more--> 
 
-Il Monte Bisbino è una montagna particolare con il versante nord-ovest in territorio svizzero mentre la cima e gli altri versanti in territorio italiano. Per questo per molti secoli è stato terra di passaggio fra i due stati ma anche zona molto frequentata dagli abitanti comaschi per le attività silvo pastorali. Il M. Bisbino è famoso anche per la vista fantastica su Como e il suo lago.
+Il Monte Bisbino è alto 1325 m/sm ed abbraccia la sponda destra della Valle di Muggio, tracciando parte del confine italo-svizzero, per questo per molti secoli è stato terra di passaggio fra i due stati ma anche zona molto frequentata dagli abitanti comaschi per le attività silvo pastorali. Sulla vetta di questa splendida montagna, si possono ancora vedere i resti di trincee, di postazioni di artiglieria e di gallerie, costruiti ai tempi della Prima Guerra Mondiale.
 
-Raggiungendo la vetta dove si trovano un Santuario dedicato alla Beata Vergine, un ristoro e un piccolo Museo di storia locale, aperto occasionalmente.
+Storia, natura, tradizione, attività sportive e turismo rappresentano l’offerta di questa bella montagna alla quale è stato anche dedicato il nome di un Gin. 
 
 ---
 
 {{< figure src="/montebisbino.jpg #centered" width=500 height=300 title=" Monte Bisbino " >}}
 
 ---
-L'obiettivo sarà raggiungere il rifugio Ragno, sebbene chi non desiderasse conquistare la vetta si potrà fermare lungo il sentiero in quanto verrànno attraversati diversi paesini anche se disabitati (opzione non consigliata per coloro che hanno paura dei fantasmi). 
+
+ In vetta al monte è posto il Santuario della Beata Vergine uno dei luoghi sacri dedicati al culto mariano maggiormente radicati nella tradizione regionale
 
 ---
 
-{{< figure src="/RifugioRagno.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
+{{< figure src="/santuariobisbino.jpg #centered" width=500 height=300 title=" Rifugio Ragno " >}}
 
 ---
 
