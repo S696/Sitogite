@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 1
 title: "Alpe Camaggiore | 23/10/2022"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
