@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: "Monte Bisbino | 20/05/2023"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
@@ -58,7 +58,7 @@ Storia, natura, tradizione, attività sportive e turismo rappresentano l’offer
 
 ---
 
-Ritrovo alle 09.30 presso questo [Parcheggio] (https://goo.gl/maps/b18J3YWPwrPAuhXD9). 
+Ritrovo alle 09.30 presso questo [ Parcheggio ](https://goo.gl/maps/b18J3YWPwrPAuhXD9). 
 
 
 --- 
